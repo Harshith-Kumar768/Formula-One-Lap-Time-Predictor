@@ -1,0 +1,5 @@
+Model,Feature_Set,RMSE_seconds,MAE_seconds
+Random Forest,Baseline,0.8683445969831279,0.5527601390581254
+Random Forest,Tire-age enhanced,0.8568907671218382,0.5501846520942456
+Gradient Boosting,Baseline,0.7649950209461347,0.5839035594217354
+Gradient Boosting,Tire-age enhanced,0.764910836335819,0.5921699967206427
